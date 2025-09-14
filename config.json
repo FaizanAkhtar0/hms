@@ -1,4 +1,4 @@
 {
-  "IsAllowed": true,
-  "RefreshIntervalInDays": 4
+  "IsAllowed": false,
+  "RefreshIntervalInDays": 1
 }
